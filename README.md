@@ -1,16 +1,21 @@
-## Hi there 👋
+# synoq95
 
-<!--
-**synoq95/synoq95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don’t build to show.  
+I build so the problem stops existing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is no process here.  
+No roadmap. No notes.  
+Only completions.
+
+---
+
+Every project is final.  
+If it’s published, it has already proven itself.  
+In silence. In production.
+
+---
+
+This isn’t a lab.  
+This is output.
