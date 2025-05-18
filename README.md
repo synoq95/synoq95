@@ -3,17 +3,9 @@ I build so the problem stops existing.
 
 ---
 
-There is no process here.  
-No roadmap. No notes.  
-Only completions.
+I help maintain what should not fail.  
+I fix what slows the system down.  
+Sometimes I contribute. Sometimes I disappear.
 
----
-
-Every project is final.  
-If it’s published, it has already proven itself.  
-In silence. In production.
-
----
-
-This isn’t a lab.  
-This is output.
+If your project has open wounds,  
+I may close one without asking.
