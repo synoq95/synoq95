@@ -1,5 +1,3 @@
-# synoq95
-
 I don’t build to show.  
 I build so the problem stops existing.
 
